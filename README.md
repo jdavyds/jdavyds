@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jdavyds
-- 🌱 I’m currently learning React and Node
+- 👋 Hi there, I’m @jdavyds
+- 🌱 I’m currently learning Node/Express
 - 💞️ I’m looking to collaborate on web app projects, Internships and Work
 - 👀 I’m interested in exposing myself to different technologies in the future 
 
